@@ -1,6 +1,6 @@
 {
   "name": "bulma-webpack-starter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This is a foundation for starting a project with Bulma, Webpack and SASS",
   "scripts": {
     "dev": "webpack",
