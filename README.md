@@ -1,4 +1,4 @@
-# Bulma foundation with webpack and Sass
+# Bulma starter with webpack and Sass
 ## How do I use?
 First you clone this repository than you run the following commands on your terminal.
 
