@@ -1,0 +1,19 @@
+{
+  "name": "bulma-webpack-starter",
+  "version": "1.0.0",
+  "description": "This is a foundation for starting a project with Bulma, Webpack and SASS",
+  "scripts": {
+    "dev": "webpack",
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "author": "Lucas Caires",
+  "devDependencies": {
+    "bulma": "^0.6.1",
+    "css-loader": "^0.28.8",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.10.0"
+  }
+}
