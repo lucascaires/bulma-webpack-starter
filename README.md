@@ -1,22 +1,32 @@
 # Bulma starter with webpack and Sass
 ## How do I use?
-First you clone this repository than you run the following commands on your terminal.
+
+First you clone this repository then you need to install the dependencies
 
 ```
+git clone https://github.com/lucascaires/bulma-webpack-starter.git
 npm install
-npm dev
 ```
 
-### For production you should run
-```
-npm build
-```
+## Build your files
 
-### You can also watch your files
+For development enviroment
 
 ```
-npm watch
+npm run dev
 ```
 
-### Finally, start to code!
+For production enviroment
+
+```
+npm run build
+```
+
+Watch if some file was changed then compile it
+
+```
+npm run watch
+```
+
+## Finally, start to code!
 
